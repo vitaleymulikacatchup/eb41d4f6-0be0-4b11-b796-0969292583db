@@ -73,7 +73,6 @@ export default function Home() {
             { items: [{ label: 'Terms of Service', onClick: () => console.log('Terms of Service') }] },
             { items: [{ label: 'FAQs', onClick: () => console.log('FAQs') }] }
           ]}
-          copyrightText='© 2023 NovaCloud'
         />
       </div>
     </SiteThemeProvider>
